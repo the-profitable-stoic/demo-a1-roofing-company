@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "A1 Roofing Company",
+    "phone": "+16823385275",
+    "category": "roofing contractor",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Fort Worth's Trusted Roofing Experts",
+      "heroSubline": "Protecting homes and businesses across North Texas. Quality craftsmanship, guaranteed.",
+      "aboutTitle": "Decades of Roofing Excellence in Fort Worth",
+      "aboutText": [
+        "A1 Roofing Company was founded right here in Fort Worth, built on a commitment to honest work and lasting results. We've seen it all, from hail storms battering Arlington Heights to ice damage in the Alliance area. Our roots are deep in this community, and we treat every project like it's for our own neighbors.",
+        "We approach every roofing job with meticulous attention to detail and a dedication to using only the highest quality materials. Whether it's a simple repair or a complete roof replacement, we prioritize clear communication, transparent pricing, and a smooth, stress-free experience for our clients. We are not just roofing contractors; we are problem solvers.",
+        "We are proud to support local Fort Worth initiatives and organizations. A strong community is built on reliable homes and businesses, and we are dedicated to contributing to the well-being of our city. We believe in giving back to the community that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Fort Worth's unique climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source only the best materials to ensure lasting protection for your home."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our team of experienced roofers delivers exceptional workmanship every time."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We stand behind our work with comprehensive warranties and responsive support."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Roofing Estimate Today",
+      "ctaSubline": "Protect your investment with a trusted Fort Worth roofing expert."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services for all types of damage.",
+        "description": "From minor leaks to storm damage, A1 Roofing Company provides comprehensive roof repair services throughout the Fort Worth area. We understand the urgency of roof repairs, especially after the intense hail storms that often hit Tarrant County. Our experienced technicians quickly diagnose the problem and provide effective solutions to prevent further damage to your home or business. We handle all types of roofing materials, from asphalt shingles common in Arlington Heights to tile roofs found in older Fort Worth neighborhoods. \n\nWe prioritize lasting repairs, not just quick fixes. Our roof repair services include shingle replacement, leak detection and repair, flashing repair, and storm damage restoration. We use only quality materials and proven techniques to ensure your roof is back to its optimal condition. \n\n Don't let a small leak turn into a major problem. Contact A1 Roofing Company for prompt and professional roof repair services you can trust.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify the source and extent of the damage.",
+          "Step 2: Detailed explanation of the repair options and associated costs.",
+          "Step 3: Professional repair using quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repair is complete and effective."
+        ],
+        "benefits": [
+          "Prevent further damage to your home or business",
+          "Extend the lifespan of your roof",
+          "Maintain the value of your property",
+          "Peace of mind knowing your roof is protected"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs and strive to respond as quickly as possible, often within 24 hours. Emergency repairs are prioritized."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services for situations that require immediate attention, such as severe leaks or storm damage."
+          },
+          {
+            "question": "What types of roof repairs do you handle?",
+            "answer": "We handle all types of roof repairs, including shingle replacement, leak detection and repair, flashing repair, storm damage restoration, and more."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for homes and businesses in Fort Worth.",
+        "description": "When roof repairs are no longer sufficient, A1 Roofing Company offers comprehensive roof replacement services. We understand that replacing your roof is a significant investment, and we guide you through every step of the process, from material selection to final inspection. We offer a wide range of roofing materials to suit your style and budget, including asphalt shingles, metal roofing, tile roofing, and more. We are experienced in working with various architectural styles, from the classic craftsman bungalows in Southside to the modern homes in Alliance. \n\nOur roof replacement process begins with a thorough inspection of your existing roof to assess its condition and identify any underlying issues. We then provide you with a detailed estimate outlining the scope of work and associated costs. Our skilled team carefully removes your old roof and installs a new roof with precision and attention to detail. We also ensure proper ventilation to prevent moisture buildup and extend the lifespan of your new roof. \n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction with your new roof. Contact A1 Roofing Company for a free consultation and let us help you protect your home or business with a durable and beautiful new roof.",
+        "process": [
+          "Step 1: Thorough inspection of your existing roof to assess its condition.",
+          "Step 2: Detailed estimate outlining the scope of work and associated costs.",
+          "Step 3: Removal of your old roof and proper disposal of debris.",
+          "Step 4: Installation of a new roof with quality materials and expert craftsmanship."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Long-lasting protection for your home or business"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as weather conditions. Most roof replacements can be completed within 1-3 days."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, metal roofing, tile roofing, and more. We can help you choose the best material for your style, budget, and climate."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "Yes, we offer financing options to help make roof replacement more affordable. Contact us to learn more about our financing programs."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspection services to identify potential problems early.",
+        "description": "Regular roof inspections are essential for maintaining the health and longevity of your roof. A1 Roofing Company provides thorough roof inspection services to identify potential problems early, before they escalate into costly repairs. Our experienced inspectors carefully examine your roof for signs of damage, such as cracked or missing shingles, leaks, damaged flashing, and wood rot. We understand the specific challenges that Fort Worth roofs face, including hail damage, wind damage, and extreme temperature fluctuations. \n\nOur roof inspection services include a detailed report outlining the condition of your roof and any recommended repairs or maintenance. We use advanced technology, such as drones, to access hard-to-reach areas and provide a comprehensive assessment. We also provide you with valuable insights on how to properly maintain your roof and extend its lifespan. \n\nProtect your investment with a professional roof inspection from A1 Roofing Company. Contact us today to schedule your inspection and ensure your roof is in top condition.",
+        "process": [
+          "Step 1: Schedule a convenient time for your roof inspection.",
+          "Step 2: Our experienced inspector will thoroughly examine your roof.",
+          "Step 3: We will provide you with a detailed report outlining the condition of your roof.",
+          "Step 4: We will discuss any recommended repairs or maintenance with you."
+        ],
+        "benefits": [
+          "Identify potential problems early",
+          "Prevent costly repairs",
+          "Extend the lifespan of your roof",
+          "Maintain the value of your property"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or after any major weather event, such as a hail storm or high winds."
+          },
+          {
+            "question": "What is included in a roof inspection report?",
+            "answer": "Our roof inspection report includes a detailed assessment of the condition of your roof, including photos and recommendations for repairs or maintenance."
+          },
+          {
+            "question": "Do you offer free roof inspections?",
+            "answer": "We offer free initial consultations and can provide a detailed inspection for a reasonable fee. The fee is waived if you choose us for any repair work."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Installation & Repair",
+        "shortDescription": "Protect your home with expert gutter installation and repair services.",
+        "description": "A1 Roofing Company provides comprehensive gutter services to protect your home from water damage. Gutters play a crucial role in directing rainwater away from your foundation, siding, and landscaping. We offer seamless gutter installation, gutter repair, and gutter cleaning services to ensure your gutters are functioning properly. Our experienced technicians can assess your gutter system and recommend the best solutions for your home. \n\nWe install high-quality seamless gutters that are custom-fit to your home, minimizing leaks and maximizing performance. We also offer a variety of gutter materials, including aluminum, steel, and copper, to match your home's style and budget. Our gutter repair services include fixing leaks, replacing damaged sections, and re-attaching gutters that have come loose. \n\nProtect your home from water damage with professional gutter services from A1 Roofing Company. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Assess your gutter system and identify any issues.",
+          "Step 2: Recommend the best solutions for your home.",
+          "Step 3: Install or repair your gutters with quality materials and expert craftsmanship.",
+          "Step 4: Ensure your gutters are functioning properly and protecting your home."
+        ],
+        "benefits": [
+          "Protect your foundation from water damage",
+          "Prevent siding damage",
+          "Preserve your landscaping",
+          "Extend the lifespan of your roof"
+        ],
+        "faq": [
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made gutters that are installed in one continuous piece, minimizing leaks and maximizing performance."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more often if you have trees near your home."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs that your gutters need repair include leaks, sagging gutters, and water overflowing from the gutters."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Expert storm damage repair services to restore your roof and protect your home.",
+        "description": "A1 Roofing Company specializes in storm damage repair services for homes and businesses in Fort Worth. We understand the devastating impact that severe weather can have on your property, and we are here to help you restore your roof and protect your home. Our experienced team can assess the damage caused by hail, wind, and other weather events, and provide comprehensive repair services to get your roof back to its optimal condition. \n\nWe work directly with your insurance company to streamline the claims process and ensure you receive the compensation you deserve. Our storm damage repair services include shingle replacement, leak repair, flashing repair, and complete roof replacement. We use only quality materials and proven techniques to ensure your roof is strong and durable. \n\nDon't let storm damage compromise the safety and security of your home. Contact A1 Roofing Company for prompt and professional storm damage repair services you can trust.",
+        "process": [
+          "Step 1: Assess the damage caused by the storm.",
+          "Step 2: Work with your insurance company to file a claim.",
+          "Step 3: Provide comprehensive repair services to restore your roof.",
+          "Step 4: Ensure your roof is strong and durable."
+        ],
+        "benefits": [
+          "Restore your roof to its optimal condition",
+          "Protect your home from further damage",
+          "Work with your insurance company to streamline the claims process",
+          "Ensure your roof is strong and durable"
+        ],
+        "faq": [
+          {
+            "question": "How do I file a storm damage claim with my insurance company?",
+            "answer": "We can help you file a storm damage claim with your insurance company and provide the necessary documentation to support your claim."
+          },
+          {
+            "question": "What types of storm damage do you repair?",
+            "answer": "We repair all types of storm damage, including hail damage, wind damage, and water damage."
+          },
+          {
+            "question": "How long does it take to repair storm damage?",
+            "answer": "The duration of storm damage repair depends on the extent of the damage. We will provide you with a timeline after assessing the damage."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable commercial roofing services for businesses in Fort Worth and surrounding areas.",
+        "description": "A1 Roofing Company provides reliable commercial roofing services for businesses in Fort Worth and surrounding areas. We understand the unique challenges of commercial roofing, and we offer a wide range of services to meet your specific needs. Our experienced team can handle all types of commercial roofing projects, from new roof installations to repairs and maintenance. We work with a variety of roofing materials, including TPO, PVC, and metal roofing. \n\nWe prioritize minimizing disruption to your business operations and completing projects on time and within budget. Our commercial roofing services include roof inspections, roof repairs, roof replacements, and preventative maintenance. We are committed to providing exceptional customer service and ensuring your complete satisfaction with our work. \n\nProtect your business with reliable commercial roofing services from A1 Roofing Company. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Assess your commercial roofing needs.",
+          "Step 2: Recommend the best solutions for your business.",
+          "Step 3: Complete the project on time and within budget.",
+          "Step 4: Ensure your complete satisfaction with our work."
+        ],
+        "benefits": [
+          "Protect your business from the elements",
+          "Minimize disruption to your business operations",
+          "Extend the lifespan of your commercial roof",
+          "Ensure code compliance"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing materials do you work with?",
+            "answer": "We work with a variety of commercial roofing materials, including TPO, PVC, and metal roofing."
+          },
+          {
+            "question": "Do you offer preventative maintenance plans for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance plans to help extend the lifespan of your commercial roof and prevent costly repairs."
+          },
+          {
+            "question": "Are you licensed and insured to provide commercial roofing services?",
+            "answer": "Yes, we are fully licensed and insured to provide commercial roofing services in Fort Worth and surrounding areas."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is proud to serve the vibrant city of Dallas, Texas. We understand the unique roofing needs of Dallas homeowners, particularly those residing in established neighborhoods featuring classic 1950s ranch-style homes. Our experienced team is well-versed in the nuances of maintaining and repairing these roofs, ensuring they can withstand the hot, humid Dallas summers.\n\nWhether you need a routine inspection, minor repairs, or a complete roof replacement, A1 Roofing Company is committed to providing top-quality workmanship and exceptional customer service. We offer a wide range of roofing materials to suit your style and budget, and we always use the latest techniques to ensure your roof is built to last.",
+        "localContext": "Many Dallas homes were built in the mid-20th century, requiring specialized knowledge of older roofing systems to ensure proper repairs and maintenance.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is dedicated to providing exceptional roofing services to the residents of Plano, Texas. Known for its well-established subdivisions built in the 1980s and 1990s, Plano homes often require specific roofing solutions to address the wear and tear of time and the challenges of the Texas climate. We have extensive experience working on these types of homes and are committed to ensuring the safety and longevity of your roof.\n\nFrom shingle replacements to complete roof overhauls, A1 Roofing Company offers a comprehensive range of services to meet your needs. We understand the importance of protecting your investment and are committed to providing reliable, cost-effective solutions. Our team will work closely with you to assess your needs and recommend the best course of action for your home.",
+        "localContext": "Plano's established subdivisions feature homes from the 80s and 90s, often requiring roof maintenance or replacement due to age and exposure to the hot Texas climate.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is pleased to offer our expert roofing services to the rapidly growing community of Frisco, Texas. With its abundance of newer construction homes built in the 2000s and 2020s, Frisco presents unique roofing challenges and opportunities. We stay up-to-date on the latest building codes and roofing technologies to ensure your home is protected with the highest quality materials and workmanship.\n\nWhether you're building a new home or need to repair or replace an existing roof, A1 Roofing Company is the trusted choice for Frisco residents. We are committed to providing exceptional customer service and exceeding your expectations. Our team will work with you every step of the way to ensure your project is completed on time and within budget.",
+        "localContext": "Frisco's newer construction means many homes benefit from modern roofing techniques and materials, ensuring longevity and energy efficiency.",
+        "nearbyAreas": [
+          "Little Elm",
+          "Prosper",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is honored to serve the historic city of McKinney, Texas. With its charming downtown area and diverse range of homes, McKinney presents a unique set of roofing needs. We have extensive experience working on historic homes and understand the importance of preserving their architectural integrity while ensuring they are protected from the elements.\n\nWhether you need to repair a leaky roof, replace damaged shingles, or install a completely new roof, A1 Roofing Company is the trusted choice for McKinney residents. We are committed to providing top-quality workmanship and exceptional customer service. Our team will work closely with you to assess your needs and recommend the best solution for your home.",
+        "localContext": "McKinney's historic downtown features many older homes requiring specialized roofing knowledge to maintain their original character and protect them from the Texas climate.",
+        "nearbyAreas": [
+          "Allen",
+          "Melissa",
+          "Princeton"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is dedicated to providing reliable and affordable roofing services to the residents of Arlington, Texas. Known for its many 1960s and 1970s ranch-style homes, Arlington presents unique roofing challenges. We are experts in repairing and replacing roofs on these types of homes, ensuring they can withstand the harsh Texas weather.\n\nFrom minor repairs to complete roof replacements, A1 Roofing Company offers a full range of services to meet your needs. We understand the importance of protecting your home and are committed to providing reliable, cost-effective solutions. Our team will work closely with you to assess your needs and recommend the best course of action for your home.",
+        "localContext": "Arlington's prevalence of 1960s and 70s ranch-style homes means many roofs are nearing the end of their lifespan and require professional attention to protect homeowners.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "As a local company, A1 Roofing Company is proud to call Fort Worth, Texas home. We are deeply familiar with the roofing needs of Fort Worth residents, from the historic homes in the cultural district to the newer developments in the suburbs. Our commitment to quality workmanship and exceptional customer service has made us a trusted name in the Fort Worth community.\n\nWhether you need a minor repair, a complete roof replacement, or a new roof installation, A1 Roofing Company is here to help. We offer a wide range of roofing materials to suit your style and budget, and we always use the latest techniques to ensure your roof is built to last. We are committed to providing the best roofing services in Fort Worth.",
+        "localContext": "Fort Worth's diverse architecture requires a roofing company with expertise in various styles and materials, ensuring proper protection and aesthetic appeal.",
+        "nearbyAreas": [
+          "Benbrook",
+          "Saginaw",
+          "White Settlement"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is proud to serve the community of Garland, Texas, providing top-quality roofing services to homeowners and businesses alike. Garland features a mix of established neighborhoods and newer developments, each with its own unique roofing needs. We have the experience and expertise to handle any roofing project, big or small.\n\nFrom repairing storm damage to installing a new roof, A1 Roofing Company is committed to providing exceptional customer service and reliable workmanship. We understand the importance of protecting your investment and are dedicated to ensuring your roof is in top condition. Contact us today for a free consultation and estimate.",
+        "localContext": "Garland's diverse housing stock means roofing contractors need to be proficient in a wide range of roofing styles and materials to properly serve the community.",
+        "nearbyAreas": [
+          "Sachse",
+          "Rowlett",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is dedicated to providing exceptional roofing services to the residents and businesses of Irving, Texas. With its mix of residential and commercial properties, Irving presents a variety of roofing challenges. We have the experience and expertise to handle any roofing project, from minor repairs to complete replacements.\n\nWe are committed to providing top-quality workmanship and outstanding customer service. Our team will work closely with you to assess your needs and recommend the best solution for your property. We offer a wide range of roofing materials and services to meet your specific requirements.",
+        "localContext": "Irving's combination of residential and commercial buildings requires a roofing company with the expertise to handle diverse roofing systems and materials.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Dallas",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "A1 Roofing Company is pleased to offer our expert roofing services to the residents of Grand Prairie, Texas. We understand the unique challenges that Texas weather presents to roofs, and we are dedicated to providing solutions that protect your home or business for years to come. Our team is experienced in all types of roofing, from traditional shingle roofs to more modern metal roofing systems.\n\nWhether you need a minor repair or a complete roof replacement, A1 Roofing Company is here to help. We are committed to providing exceptional customer service and ensuring your complete satisfaction. Contact us today for a free estimate and let us show you why we are the trusted choice for roofing in Grand Prairie.",
+        "localContext": "Grand Prairie homes often face challenges from severe weather, requiring durable and reliable roofing solutions to protect residents and their properties.",
+        "nearbyAreas": [
+          "Arlington",
+          "Irving",
+          "Dallas"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "A1 Roofing Company was a lifesaver after the recent hail storm. My roof had several damaged shingles, and they were able to come out quickly and make the repairs. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Installation",
+        "text": "I had A1 Roofing install new gutters on my house. The crew was efficient and did a great job. There was a minor issue with the downspout placement, but they came back the next day and fixed it without any hassle. Good service overall.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "From start to finish, A1 Roofing made the roof replacement process easy. They helped me choose the right shingles for my home and budget, and the installation team was professional and courteous. My new roof looks fantastic!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael J.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I needed a roof inspection before buying a new home, and A1 Roofing provided a thorough and detailed report. They identified a few minor issues that I was able to address with the seller before closing. Very helpful and professional.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica S.",
+        "rating": 4,
+        "service": "Storm Damage Repair",
+        "text": "A1 Roofing helped me navigate the insurance claim process after a bad storm damaged my roof. They were responsive and knowledgeable, and they did a great job repairing the damage. I appreciated their attention to detail and commitment to customer service.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "A1 Roofing replaced the roof on my commercial building. The project was completed on time and within budget, and the quality of the work was excellent. I would definitely recommend them to other business owners.",
+        "date": "2024-07-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A1 Roofing - Fort Worth, TX",
+        "description": "Trusted roofing contractor in Fort Worth. Roof repair, replacement, inspections. Serving Dallas, Plano, Frisco, McKinney, Arlington."
+      },
+      "about": {
+        "title": "About A1 Roofing - Fort Worth, TX",
+        "description": "Learn about A1 Roofing Company, your trusted roofing contractor in Fort Worth, TX. Quality service, local expertise."
+      },
+      "services": {
+        "title": "A1 Roofing Services - Fort Worth, TX",
+        "description": "Comprehensive roofing services in Fort Worth, TX. Roof repair, replacement, inspections, gutters. Free estimates."
+      },
+      "contact": {
+        "title": "Contact A1 Roofing - Fort Worth, TX",
+        "description": "Contact A1 Roofing Company for your roofing needs in Fort Worth, TX. Get a free estimate. Call +16823385275."
+      },
+      "reviews": {
+        "title": "A1 Roofing Reviews - Fort Worth, TX",
+        "description": "Read reviews of A1 Roofing Company from satisfied customers in Fort Worth, TX and surrounding areas."
+      },
+      "service-areas": {
+        "title": "A1 Roofing Service Areas",
+        "description": "A1 Roofing Company serves Dallas, Plano, Frisco, McKinney, Arlington and Fort Worth, TX. Expert roofing services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
